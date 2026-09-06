@@ -1,4 +1,4 @@
-# RGB-Picker :red_circle::green_circle::blue_circle:
+# RGB-Picker :red_circle::green_circle::blue_square:
 
 ## ¿Cual es la utilidad de este proyecto? ⁉️
 Este segundo proyecto en Rust nace con la idea de simplificar a la hora de utilizar colores RGB en diferentes proyectos. Ya hay sitios web que hacen lo mismo y mejor, pero... asi practico con Rust, y de paso utilizo mi recien creada crate Slider para ello:  
